@@ -1,0 +1,8 @@
+Add #defines for XLL_DOUBLE12/X
+What to do with _T?
+
+Figure out how to do links in SHFB.
+
+Group by Category level in documentation.
+
+Alphabetical ordering of functino names. 
